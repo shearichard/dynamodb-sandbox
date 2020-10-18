@@ -1,4 +1,4 @@
-./PRIVATE_README.md
+PRIVATE_README.md
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
